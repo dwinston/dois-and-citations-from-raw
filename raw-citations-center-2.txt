@@ -1,0 +1,76 @@
+  The Materials Project: A materials genome approach to accelerating materials
+innovation. A. Jain*, S.P. Ong*, G. Hautier, W. Chen, W.D. Richards, S. Dacek,
+S. Cholia, D. Gunter, D. Skinner, G. Ceder, and K.A. Persson, Applied Physics
+Letters Materials, 2013 (*=equal contributions)
+
+  Formation enthalpies by mixing GGA and GGA + U calculations. A. Jain,
+G. Hautier, S. P. Ong, C. J. Moore, C. C. Fischer, K. A. Persson, G. Ceder;
+Physical Review B 2011, 84, 045115.
+
+  A high-throughput infrastructure for density functional theory
+calculations. A. Jain, G. Hautier, C.J. Moore, S.P. Ong, C.C. Fischer,
+T. Mueller, K.A. Persson, and G. Ceder, Computational Materials Science, 2011
+
+  Data Mined Ionic Substitutions for the Discovery of New Compounds, G. Hautier,
+C.C. Fischer, V. Erlacher, A. Jain, and G. Ceder, Inorganic Chemistry, 2010
+
+  Finding Nature's Missing Ternary Oxide Compounds Using Machine Learning and
+Density Functional Theory, G. Hautier, C.C. Fischer, A. Jain, T. Mueller, and
+G. Ceder, Chemistry of Materials, 2010, 22(12), 3762-3767.
+
+  The Li-Fe-P-O2 Phase Diagram from First Principles Calculations S. P. Ong,
+L. Wang, B.W. Kang and G. Ceder, Chemistry of Materials, 2008, 20(5),
+1798-1807.
+
+  Efficient Band Gap Prediction for Solids, M. Chan and G. Ceder, Physical Review
+Letters, 2010, 105(19), 196403
+
+  Opportunities and challenges for first-principles materials design and
+applications to Li battery materials, G. Ceder, MRS Bulletin, 2010, 35,
+693-702.
+
+  Thermal stabilities of delithiated olivine MPO4 (M=Fe, Mn) cathodes
+investigated using first principles calculations, S.P. Ong, A. Jain,
+G. Hautier, B. Kang, and G. Ceder, Electrochemistry Communications, 2010,
+12(3), 427-430.
+
+  Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek, Shreyas Cholia, Dan Gunter, David Skinner, Gerbrand Ceder, Kristin A. Persson, Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, Applied Physics Letters Materials. 1, 011002 (2013)
+
+  Sima Aminorroaya Yamini, H. Wang, Z. M. Gibbs, Y-Z. Pei, D. Mitchell, Shi Xue Dou, G Jeffrey Snyder  “Thermoelectric performance of Tellurium-reduced quaternary p-type lead-chalcogenide composites” Acta Materialia (2014) DOI:10.1016/j.actamat.2014.06.065
+
+  J. Schmitt, Z. M. Gibbs, G. J. Snyder, C. Felser, Resolving the True Band Gap of ZrNiSn Half-Heusler Thermoelectric Materials, Materials Horizons (2014) in press.
+
+  M. Zhou, Z. M. Gibbs, H. Wang, Y. Han, C. Xin, L. Li, G. J. Snyder, Optimization of Thermoelectric Effeiciency in SnTe: The Case For the Light Band, Physical Chemistry Chemical Physics 16 (2014) doi: 10.1039/C4CP02091J
+
+  M. H. Kumar, S. Dharani, T. Baikie, W. L. Leong, P. P. Boix, R. R. Prabhakar, T. Baikie, C. Shi, H. Ding, R. Ramesh, M. Asta, M. Graetzel, S. G. Mhaisalkar and N. Mathews, Lead-free halide perovskite solar cells with high photocurrents realised through vacancy modulation, Adv. Mater. DOI: 10.1002/adma.201401991.
+
+  Ritov Y, Bickel PJ, Gamst AC, Kleijn B. The Bayesian Analysis of Complex, High-Dimensional Data: Can it be CODA? Statistical Science (2014)
+
+  J. Carrete, N. Mingo, S. Wang, and S. Curtarolo, Nanograined half-Heusler semiconductors as advanced thermoelectrics: an ab-initio high-throughput statistical study, Adv. Funct. Mater. [doi=10.1002/adfm.201401201] (2014).
+
+  M. Pinheiro, R.L. Martin, C.H. Rycroft, M. Haranczyk, CrystEngComm 15 (2013) 7531-7538
+
+  S.Y. Kang, Y. Mo, S.P. Ong, G. Ceder; Nanoscale Stabilization of Sodium Oxides: Implications for Na−O2 Batteries Nano Letters 14 (2014) doi:10.1021/nl404557w
+
+  Qiao, R., Lucas, I. T., Karim, A., Syzdek, J., Liu, X., Chen, W., Persson, K., Kostecki, R., Yang, W. (2014). Distinct Solid-Electrolyte-Interphases on Sn (100) and (001) Electrodes Studied by Soft X-Ray Spectroscopy. Adv. Mater. Interfaces, 1: 1300115. doi: 10.1002/admi.201300115
+
+J.C. Kim, X. Li, C.J. Moore, S-H Bo, P.G. Khalifah, C.P. Grey, G. Ceder, Analysis of Charged State Stability for Monoclinic LiMnBO3 Cathode, Chem. Mater.,
+DOI: 10.1021/cm5014174 (in press)
+
+  L. Cheng, E. J. Crumlin, W. Chen, R. Qiao, H. Hou, S. F. Lux, V. Zorba, R. Russo, R. Kostecki, Z. Liu, K. Persson, W. Yang, J. Cabana, T. Richardson, G. Chen, and M. Doeff, Origin of High Electrolyte-Electrode Interfacial Resistances in Lithium Cells Containing Garnet Type Solid Electrolytes, DOI: 10.1039/C4CP02921F, Phys. Chem. Chem. Phys., 2014, 16, 18294-18300
+
+  I. E. Castelli, F. H¨user, M. Pandey, H. Li, Kristian S. Thygesen, B. Seger, A. Jain, K. Persson, G. Ceder, and Karsten W. Jacobsen, New Light Harvesting Materials Using Accurate and Efficient Bandgap Calculations, Adv. Energy Mater. http://dx.doi.org/10.1002/aenm.201400915 (2014)
+
+  J. Carrete, N. Mingo, and S. Curtarolo, Low thermal conductivity of SnSe and existence of an easy axis for phonons, Appl. Phys. Lett. 105, 101907 (2014); http://dx.doi.org/10.1063/1.4895770
+
+  L. Yang, S. Dacek, G. Ceder, A Proposed Denition of Crystal Substructure and Substructural Similarity, Phys. Rev. B 90, 054102
+
+  K. Liu, Q. Yan, M. Chen, W. Fan, Y. Sun, J. Suh, D. Fu, S. Lee, J. Zhou, S. Tongay, J. Ji, J. B. Neaton, and J. Wu, Elastic Properties of Chemical-Vapor-Deposited Monolayer MoS2, WS2, and Their Bilayer Heterostructures, Nano Lett. 14, 5097 (2014)
+
+  R. H. Taylor, F. Rose, C. Toher, O. Levy, K. Yang, M. Buongiorno Nardelli, and S. Curtarolo, A RESTful API for exchanging Materials Data in the AFLOWLIB.org consortium, Comp. Mat. Sci. (2014). [doi=10.1016/j.commatsci.2014.05.014]
+
+  The Materials Application Programming Interface (API): A simple, flexible and efficient API for materials data based on REpresentational State Transfer (REST) principles. Shyue Ping Ong, Shreyas Cholia, Anubhav Jain, Miriam Brafman, Dan Gunter, Gerbrand Ceder, and Kristin A. Persson. Computational Materials Science 97(0).
+
+  First-principles study of electronic structure and photocatalytic properties of MnNiO3 as an alkaline oxygen-evolution photocatalyst. Jie Yu, Qimin Yan, Wei Chen, Anubhav Jain, Jeffrey B. Neaton, and Kristin A. Persson. Chem. Commun. 51(14).
+
+  New Light-Harvesting Materials Using Accurate and Efficient Bandgap Calculations. Ivano E. Castelli, Falco Hüser, Mohnish Pandey, Hong Li, Kristian S. Thygesen, Brian Seger, Anubhav Jain, Kristin A. Persson, Gerbrand Ceder, and Karsten W. Jacobsen. Advanced Energy Materials 5(2).

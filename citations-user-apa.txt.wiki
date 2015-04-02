@@ -1,0 +1,82 @@
+Nagase, T., Suzuki, M., & Tanaka, T. (2015). Amorphous phase formation in Fe–Ag-based immiscible alloys. Journal of Alloys and Compounds, 619, 311–318. [http://dx.doi.org/10.1016/j.jallcom.2014.08.212 doi:10.1016/j.jallcom.2014.08.212]
+
+Castelli, I. E., Hüser, F., Pandey, M., Li, H., Thygesen, K. S., Seger, B., … Jacobsen, K. W. (2015). Light-Harvesting Materials: New Light-Harvesting Materials Using Accurate and Efficient Bandgap Calculations (Adv. Energy Mater. 2/2015). Adv. Energy Mater., 5(2), n/a–n/a. [http://dx.doi.org/10.1002/aenm.201570007 doi:10.1002/aenm.201570007]
+
+Legrain, F., & Manzhos, S. (2015). Aluminum doping improves the energetics of lithium, sodium, and magnesium storage in silicon: A first-principles study. Journal of Power Sources, 274, 65–70. [http://dx.doi.org/10.1016/j.jpowsour.2014.10.037 doi:10.1016/j.jpowsour.2014.10.037]
+
+Nagase, T., Suzuki, M., & Tanaka, T. (2015). Formation of amorphous phase with crystalline globules in Fe–Cu–Nb–B immiscible alloys. Journal of Alloys and Compounds, 619, 267–274. [http://dx.doi.org/10.1016/j.jallcom.2014.08.229 doi:10.1016/j.jallcom.2014.08.229]
+
+Longo, R. C., Kong, F. T., KC, S., Park, M. S., Yoon, J., Yeon, D.-H., … Cho, K. (2014). Phase stability of Li–Mn–O oxides as cathode materials for Li-ion batteries: insights from ab initio calculations. Physical Chemistry Chemical Physics, 16(23), 11233. [http://dx.doi.org/10.1039/c4cp00937a doi:10.1039/c4cp00937a]
+
+Zhu, H., Sun, W., Armiento, R., Lazic, P., & Ceder, G. (2014). Band structure engineering through orbital interaction for enhanced thermoelectric power factor. Appl. Phys. Lett., 104(8), 082107. [http://dx.doi.org/10.1063/1.4866861 doi:10.1063/1.4866861]
+
+KC, S., Longo, R. C., Xiong, K., & Cho, K. (2014). Point defects in garnet-type solid electrolyte (c-Li7La3Zr2O12) for Li-ion batteries. Solid State Ionics, 261, 100–105. [http://dx.doi.org/10.1016/j.ssi.2014.04.021 doi:10.1016/j.ssi.2014.04.021]
+
+Devidas, T. R., Chandra Shekar, N. V., Sundar, C. S., Chithaiah, P., Sorb, Y. A., Bhadram, V. S., … Rao, C. N. R. (2014).  Pressure-induced structural changes and insulator-metal transition in layered bismuth triiodide, BiI 3 : a combined experimental and theoretical study . J. Phys.: Condens. Matter, 26(27), 275502. [http://dx.doi.org/10.1088/0953-8984/26/27/275502 doi:10.1088/0953-8984/26/27/275502]
+
+Huang, J., Valenzano, L., Singh, T. V., Pandey, R., & Sant, G. (2014).  Influence of (Al, Fe, Mg) Impurities on Triclinic Ca 3 SiO 5 : Interpretations from DFT Calculations . Crystal Growth & Design, 14(5), 2158–2171. [http://dx.doi.org/10.1021/cg401647f doi:10.1021/cg401647f]
+
+He, K., Zhou, Y., Gao, P., Wang, L., Pereira, N., Amatucci, G. G., … Su, D. (2014).  Sodiation via Heterogeneous Disproportionation in FeF 2 Electrodes for Sodium-Ion Batteries . ACS Nano, 8(7), 7251–7259. [http://dx.doi.org/10.1021/nn502284y doi:10.1021/nn502284y]
+
+Kan, M., Adhikari, S., & Sun, Q. (2014). Ferromagnetism in MnX2 (X = S, Se) monolayers. Physical Chemistry Chemical Physics, 16(10), 4990. [http://dx.doi.org/10.1039/c3cp55146f doi:10.1039/c3cp55146f]
+
+Bilalbegovi , G., Maksimovi , A., & Moha ek-Gro ev, V. (2014). Do cement nanoparticles exist in space? Monthly Notices of the Royal Astronomical Society, 442(2), 1319–1325. [http://dx.doi.org/10.1093/mnras/stu869 doi:10.1093/mnras/stu869]
+
+Fondell, M., Jacobsson, T. J., Boman, M., & Edvinsson, T. (2014). Optical quantum confinement in low dimensional hematite. J. Mater. Chem. A, 2(10), 3352. [http://dx.doi.org/10.1039/c3ta14846g doi:10.1039/c3ta14846g]
+
+Armiento, R., Kozinsky, B., Hautier, G., Fornari, M., & Ceder, G. (2014). High-throughput screening of perovskite alloys for piezoelectric performance and thermodynamic stability. Phys. Rev. B, 89(13). [http://dx.doi.org/10.1103/physrevb.89.134103 doi:10.1103/physrevb.89.134103]
+
+Tang, X., Yao, X., Chen, Y., Song, B., Zhou, D., Kong, J., … Lu, X. (2014). CuInZnS-decorated graphene as a high-rate durable anode for lithium-ion batteries. Journal of Power Sources, 257, 90–95. [http://dx.doi.org/10.1016/j.jpowsour.2014.01.107 doi:10.1016/j.jpowsour.2014.01.107]
+
+Tada, T., Takemoto, S., Matsuishi, S., & Hosono, H. (2014). ChemInform Abstract: High-Throughput ab initio Screening for Two-Dimensional Electride Materials. ChemInform, 45(48), no–no. [http://dx.doi.org/10.1002/chin.201448002 doi:10.1002/chin.201448002]
+
+Chaudhry, A., Boutchko, R., Chourou, S., Zhang, G., Grønbech-Jensen, N., & Canning, A. (2014).  First-principles study of luminescence in Eu     2 +    -doped inorganic scintillators . Phys. Rev. B, 89(15). [http://dx.doi.org/10.1103/physrevb.89.155105 doi:10.1103/physrevb.89.155105]
+
+Khabibullin, A. R., & Woods, L. M. (2014). Ab Initio Investigation of Bi-Rich Bi1–x Sb x Alloys. Journal of Elec Materi, 43(9), 3110–3116. [http://dx.doi.org/10.1007/s11664-014-3276-1 doi:10.1007/s11664-014-3276-1]
+
+Hautier, G., Miglio, A., Waroquiers, D., Rignanese, G.-M., & Gonze, X. (2014). How Does Chemistry Influence Electron Effective Mass in Oxides? A High-Throughput Computational Analysis. Chemistry of Materials, 26(19), 5447–5458. [http://dx.doi.org/10.1021/cm404079a doi:10.1021/cm404079a]
+
+Aykol, M., & Wolverton, C. (2014).  Publisher’s Note: Local environment dependent  GGA + U  method for accurate thermochemistry of transition metal compounds [Phys. Rev. B 90 , 115105 (2014)] . Phys. Rev. B, 90(11). [http://dx.doi.org/10.1103/physrevb.90.119904 doi:10.1103/physrevb.90.119904]
+
+Chinnappan, R. (2014). Thermodynamic stability of oxide phases of Fe–Cr based ODS steels via quantum mechanical calculations. Calphad, 45, 188–193. [http://dx.doi.org/10.1016/j.calphad.2013.12.008 doi:10.1016/j.calphad.2013.12.008]
+
+Hoang, K., & Johannes, M. D. (2014). Defect chemistry in layered transition-metal oxides from screened hybrid density functional calculations. J. Mater. Chem. A, 2(15), 5224–5235. [http://dx.doi.org/10.1039/c4ta00673a doi:10.1039/c4ta00673a]
+
+Kamachali, R. D., Borukhovich, E., Hatcher, N., & Steinbach, I. (2014).  DFT-supported phase-field study on the effect of mechanically driven fluxes in Ni 4 Ti 3 precipitation . Modelling Simul. Mater. Sci. Eng., 22(3), 034003. [http://dx.doi.org/10.1088/0965-0393/22/3/034003 doi:10.1088/0965-0393/22/3/034003]
+
+Ellis, J. K., Wen, X.-D., & Martin, R. L. (2014).  Investigation of Thorium Salts As Candidate Materials for Direct Observation of the  229 m  Th Nuclear Transition . Inorg. Chem., 53(13), 6769–6774. [http://dx.doi.org/10.1021/ic500570u doi:10.1021/ic500570u]
+
+Varley, J. B., Lordi, V., Miglio, A., & Hautier, G. (2014).  Electronic structure and defect properties of    B  6  O  from hybrid functional and many-body perturbation theory calculations: A possible ambipolar transparent conductor . Phys. Rev. B, 90(4). [http://dx.doi.org/10.1103/physrevb.90.045205 doi:10.1103/physrevb.90.045205]
+
+Qiao, R., Lucas, I. T., Karim, A., Syzdek, J., Liu, X., Chen, W., … Yang, W. (2014). Distinct Solid-Electrolyte-Interphases on Sn (100) and (001) Electrodes Studied by Soft X-Ray Spectroscopy. Adv. Mater. Interfaces, 1(3), n/a–n/a. [http://dx.doi.org/10.1002/admi.201300115 doi:10.1002/admi.201300115]
+
+Tsai, P. -c., Hsu, W.-D., & Lin, S. -k. (2013). Atomistic Structure and Ab Initio Electrochemical Properties of Li4Ti5O12 Defect Spinel for Li Ion Batteries. Journal of the Electrochemical Society, 161(3), A439–A444. [http://dx.doi.org/10.1149/2.095403jes doi:10.1149/2.095403jes]
+
+Al-Maghrabi, M. A., Suzuki, J., Sanderson, R. J., Chevrier, V. L., Dunlap, R. A., & Dahn, J. R. (2013). Combinatorial Studies of Si1-xOx as a Potential Negative Electrode Material for Li-Ion Battery Applications. Journal of the Electrochemical Society, 160(9), A1587–A1593. [http://dx.doi.org/10.1149/2.115309jes doi:10.1149/2.115309jes]
+
+Martinez de la Hoz, J. M., Leung, K., & Balbuena, P. B. (2013). Reduction Mechanisms of Ethylene Carbonate on Si Anodes of Lithium-Ion Batteries: Effects of Degree of Lithiation and Nature of Exposed Surface. ACS Applied Materials & Interfaces, 5(24), 13457–13465. [http://dx.doi.org/10.1021/am404365r doi:10.1021/am404365r]
+
+Meinert, M., Hübner, T., Schmalhorst, J., Reiss, G., & Arenholz, E. (2013). Phase separation in Fe2CrSi thin films. Journal of Applied Physics, 114(11), 113908. [http://dx.doi.org/10.1063/1.4821972 doi:10.1063/1.4821972]
+
+Sarker, P., Prasher, D., Gaillard, N., & Huda, M. N. (2013). Predicting a new photocatalyst and its electronic properties by density functional theory. Journal of Applied Physics, 114(13), 133508. [http://dx.doi.org/10.1063/1.4821429 doi:10.1063/1.4821429]
+
+Wang, Y., Zhang, Y.-Y., Tang, J., Wu, H., Xu, M., Peng, Z., … Zheng, G. (2013).  Simultaneous Etching and Doping of TiO 2 Nanowire Arrays for Enhanced Photoelectrochemical Performance . ACS Nano, 7(10), 9375–9383. [http://dx.doi.org/10.1021/nn4040876 doi:10.1021/nn4040876]
+
+Doeff, M. M., Cabana, J., & Shirpour, M. (2013). Titanate Anodes for Sodium Ion Batteries. J Inorg Organomet Polym, 24(1), 5–14. [http://dx.doi.org/10.1007/s10904-013-9977-8 doi:10.1007/s10904-013-9977-8]
+
+Meinert, M., & Geisler, M. P. (2013). Phase stability of chromium based compensated ferrimagnets with inverse Heusler structure. Journal of Magnetism and Magnetic Materials, 341, 72–74. [http://dx.doi.org/10.1016/j.jmmm.2013.04.025 doi:10.1016/j.jmmm.2013.04.025]
+
+Zeng, Q., Peng, J., Oganov, A. R., Zhu, Q., Xie, C., Zhang, X., … Cheng, L. (2013). Prediction of stable hafnium carbides: Stoichiometries, mechanical properties, and electronic structure. Phys. Rev. B, 88(21). [http://dx.doi.org/10.1103/physrevb.88.214107 doi:10.1103/physrevb.88.214107]
+
+Xie, W., Xiong, W., Marianetti, C. A., & Morgan, D. (2013).  Correlation and relativistic effects in U metal and U-Zr alloy: Validation of ab initio approaches . Phys. Rev. B, 88(23). [http://dx.doi.org/10.1103/physrevb.88.235128 doi:10.1103/physrevb.88.235128]
+
+Kan, M., Zhou, J., Sun, Q., Kawazoe, Y., & Jena, P. (2013).  The Intrinsic Ferromagnetism in a MnO 2 Monolayer . The Journal of Physical Chemistry Letters, 4(20), 3382–3386. [http://dx.doi.org/10.1021/jz4017848 doi:10.1021/jz4017848]
+
+Sharma, V., Pilania, G., Rossetti, G. A., Slenes, K., & Ramprasad, R. (2013).  Comprehensive examination of dopants and defects in BaTiO    3   from first principles . Phys. Rev. B, 87(13). [http://dx.doi.org/10.1103/physrevb.87.134109 doi:10.1103/physrevb.87.134109]
+
+Castelli, I. E., Olsen, T., Datta, S., Landis, D. D., Dahl, S., Thygesen, K. S., & Jacobsen, K. W. (2012). Computational screening of perovskite metal oxides for optimal solar light capture. Energy Environ. Sci., 5(2), 5814–5819. [http://dx.doi.org/10.1039/c1ee02717d doi:10.1039/c1ee02717d]
+
+Rustad, J. R. (2012). Density functional calculations of the enthalpies of formation of rare-earth orthophosphates. American Mineralogist, 97(5-6), 791–799. [http://dx.doi.org/10.2138/am.2012.3948 doi:10.2138/am.2012.3948]
+
+Tran, T. T., & Obrovac, M. N. (2011). Alloy Negative Electrodes for High Energy Density Metal-Ion Cells. Journal of The Electrochemical Society, 158(12), A1411. [http://dx.doi.org/10.1149/2.083112jes doi:10.1149/2.083112jes]
+

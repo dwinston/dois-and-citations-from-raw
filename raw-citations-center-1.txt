@@ -1,0 +1,63 @@
+1.     Ong, S. P.; Cholia, S.; Jain, A.; Brafman, M.; Gunter, D.; Ceder, G.; Persson, K. A. The Materials Application Programming Interface (API): A simple, flexible and efficient API for materials data based on REpresentational State Transfer (REST) principles. Comput. Mater. Sci. 2015, 97, 209-215.
+
+2.     Kang, S.Y.; Mo, Y.; Ong, S. P.; Ceder, G. Nanoscale Stabilization of Sodium Oxides: Implications for Na−O2 Batteries, Nano Lett. 2014, 14, 1016-1020.
+
+3.     Toher, C.; Plata, J. J.; Levy, O.; de Jong, M.; Asta, M.; Nardelli, M. B.; Curtarolo, S. High-Throughput Computational Screening of Thermal Conductivity, Debye Temperature and Gruneisen Parameter Using a Quasiharmonic Debye Model. Phys. Rev. B 2014, 90, 174107.
+
+4.     Ong, S. P.; Richard, W. D.; Ceder, G.; Jain, A.; Kocher, A.; Cholia, S.; Gunter, D.; Persson, K. A.; Hautier, G.; Chevrier, V. L. Python Materials Genomics (pymatgen): A Robust, Open-Source Python Library for Materials Analysis. Comput. Mater. Sci. 2013, 68, 314–319.
+
+5.     Jain, A.; Ong, S. P.; Hautier, G.; Chen, W.; Richards, W. D.; Dacek, S.; Cholia, S.; Gunter, D.; Skinner, D.; Ceder, G.; Persson, K.A. Commentary: The Materials Project: A Materials Genome Approach to Accelerating Materials Innovation, APL Mat. 2013, 1, 011002.
+
+6.     Pinheiro, M.; Martin, R. L.; Rycroft, C. H.; Haranczyk, M. High accuracy geometric analysis of crystalline porous materials. CrystEngComm 2013, 15, 7531-7538.
+
+7.     Yan, Q.; Li, G.; Newhouse, P. F.; Yu, J.; Persson, K.; Gregoire, J. M.; Neaton, J. B.Mn2V2O7: An Earth Abundant Light Absorber for Solar Water Splitting. Adv. Energy Mater. 2015, 1401840
+
+1.     de Jong, M.; Chen, W.; Angsten, T.; Jain, A.; Notestine, R.; Gamst, A.; Sluiter, M.; Ande, C.; van der Zwaag, S.; Curtarolo, S.; Toher, C.; Plata, J. J.; Ceder, G.; Persson, K.; Asta, M. Charting the Complete Elastic Properties of Inorganic Crystalline Compounds.  Nature Scientific Data, submitted.
+
+2.     Ding, H.; Medasani, B.; Chen, W.; Persson, K.; Haranczyk, M.; Asta, M. PyDII: A Python Framework for Computing Equilibrium Intrinsic Point Defect Concentrations and Extrinsic Site Preferences in Intermetallic Compounds. Computer Physics Communication, submitted.
+
+3.     Gibbs, Z. M.; Kim, H. S.; Wang, H.; Snyder, G. J. Band gap estimation from temperature dependent Seebeck measurement—deviations from the 2e|S|maxTmax relation. Accepted for publication in Applied Physics Letters.
+
+4.     Medasani, B.; Haranczyk, M.; Canning, A.; Asta, M. Vacancy Formation Energies in Metals: A Comparison of MetaGGA with LDA and GGA Exchange-Correlation Functionals. Comput. Mater. Sci. in press.
+
+5.     Sun, W.; Jayaraman, S.; Chen, W.; Persson, K. A.; Ceder, G. Surface Energy Drives Polymorph Selection Between Aragonite and Magnesian-Calcite. Submitted to PNAS 2014.
+
+1.     Cheng, L.; Assary, R. S.; Qu, X.; Jain, A.; Ong, S. P.; Rajput, N. N.; Persson, K.; Curtiss, L. A. Accelerating Electrolyte Discovery for Energy Storage with High-Throughput Screening. J. Phys. Chem. Lett. 2015, 6, 283-291.
+
+2.     Schmitt, J.; Gibbs, Z.M.; Snyder, G. J.; Felser, C. Resolving the True Band Gap of ZrNiSn Half-Heusler Thermoelectric Materials. Mater. Horiz. 2015, 2, 68-75.
+
+3.     Carrete, J.; Mingo, N.; Curtarolo, S. Low thermal conductivity and triaxial phononic anisotropy of SnSe. Appl. Phys. Lett. 2014, 105, 101907.
+
+4.     Carrete, J.; Mingo, N.; Wang, S.; Curtarolo, S. Nanograined Half-Heusler Semiconductors as Advanced Thermoelectrics: An Ab-Initio High-Throughput Statistical Study. Adv. Funct. Mater. 2014, 24, 7427–7432.
+
+5.     Castelli, I. E.; Huser, F.; Randey, M.; Li, H.; Thygesen, K. S.; Seger, B.; Jain, A.; Persson, K. A.; Ceder, G.; Jacobsen, K. W. New Light-Harvesting Materials Using Accurate and Efficient Bandgap Calculations. Adv. Energy Mater. 2014, 5, 1400915.
+
+6.     Cheng, L.; Ethan, J. C.; Wei, C.; Ruimin, Q.; Huaming, H.; Lux, S. F.; Zorba, V.; Russo, R.; Kostecki, R.; Liu, Z.; Persson, K.; Yang, W.; Cabana, J.; Richardson, T.; Chen, G.; Doeff, M. The origin of high electrolyte–electrode interfacial resistances in lithium cells containing garnet type solid electrolytes. Phys. Chem. Chem. Phys. 2014, 16, 18294-18300.
+
+7.     Isayev, O.; Fourches, D.; Muratov, E. N.; Oses, C.; Rasch, K.; Tropsha, A.; Curtarolo, S. Materials Cartography: Representing and Mining Material Space Using Structural and Electronic Fingerprints, Chem. Mater. 2014, DOI: 10.1021/cm503507h
+
+8.     Kim, J. C.; Li, X.; Moore, C. J.; Bo, S.-H.; Khalifah, P.G.; Grey, C. P.; Ceder, G. Analysis of Charged State Stability for Monoclinic LiMnBO3 Cathode. Chem. Mater. 2014, 26, 4200-4206.
+
+9.     Kumar, M. H.; Dharani, S.; Leong, W. L.; Boix, P. P.; Prabhakar, R. R.; Baikie, T.; Shi, C.; Ding, H.; Ramesh, R.; Asta, M.; Graetzel, M.; Mhaisalkar, S. G.; Mathews, N. Lead-free halide perovskite solar cells with high photocurrents. Adv. Mater. 2014, 26, 7122-7127.
+
+10.  Liu, K.; Yan, Q.; Chen, M.; Fan, W.; Sun, Y.; Suh, J.; Fu, D.; Lee, S.; Zhou, J.; Tongay, S.; Ji, J.; Neaton, J. B.; Wu, J. Elastic Properties of Chemical-Vapor-Deposited Monolayer MoS2, WS2, and Their Bilayer Heterostructures. Nano Lett. 2014, 14, 5097-5103.
+
+11.  Ritov, Y.; Bickel, P. J.; Gamst, A. C.; Kleijn, B. J. K. The Bayesian Analysis of High-Dimensional Models: Can it be CODA? Stat. Sci. 2014, 29, 619-639.
+
+12.  Yamini, S. A.; Wang, H.; Gibbs, Z. M.; Pei, Y-Z.; Mitchell, D.; Dou, S. X.; Snyder, G. J. Thermoelectric performance of Tellurium-reduced quaternary p-type lead-chalcogenide composites. Acta Mater. 2014, 80, 365-372.
+
+13.  Yang, L.; Dacek, S.; Ceder, G. Proposed Definition of Crystal Substructure and Substructural Similarity. Phys. Rev. B 2014, 90, 054102.
+
+14.  Zeier, W. G.; Zhu, H.; Gibbs, Z. M.; Ceder, G.; Tremel, W.; Snyder, G. J. Band Convergence in the Non-cubic Chalcopyrite Compounds Cu2MGeSe4, J. Mater. Chem. C 2014, 2, 10189-10194.
+
+15.  Zhou, M.; Gibbs, Z. M.; Wang, H.; Han, Y.; Xin, C.; Li, L.; Snyder, G. J. Optimization of Thermoelectric Efficiency in SnTe: The Case For the Light Band. Phys. Chem. Chem. Phys. 2014, 16, 20741-20748.
+
+16.  Liu, M.; Rong, Z.; Malik, R.; Canepa, P.; Jain, A.; Ceder, G.; Persson, K. Spinel Compounds as Multivalent Battery Cathodes: A Systematic Evaluation Based on ab initio Calculations. Energy Environ. Sci., 2015, 10.1039/C4EE03389B.
+
+17.  Yu, J.; Yan, Q.; Chen, W.; Jain, A.; Neaton, J. B.; Persson, K.A. First-principles study of electronic structure and photocatalytic properties of MnNiO3 as an alkaline oxygen-evolution photocatalyst. ChemComm., 2015, 51, 2867
+
+18.  Cheng, L.; Chen, W.; Kunz, M.; Persson, K. A.; Tamura, N.; Chen, G.; Doeff, M. M. Effect of Surface Microstructure on Electrochemical Performance of Garnet Solid Electrolytes. ACS Appl. Mater. Inter., 2015, 7(3), 2073-81.
+
+1.     Agapito, L. A.; Curtarolo, S.; Buongiorno, M.; Nardelli, M. B. Reformulation of DFT+U as a pseudo-hybrid Hubbard density functional for accelerated materials discovery. Phys. Rev. X, in press.
+
+2.     Rost, C. M.; Sachet, E.; Borman, T.; Moballegh, A.; Dickey, E. C.; Hou, D.; Jones, J. L.; Curtarolo, S.; Maria, J.-P. High-entropy systems from databases. Submitted (2015).

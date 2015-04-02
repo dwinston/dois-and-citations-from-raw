@@ -1,0 +1,78 @@
+Medasani, B., Haranczyk, M., Canning, A., & Asta, M. (2015). Vacancy formation energies in metals: A comparison of MetaGGA with LDA and GGA exchange–correlation functionals. Computational Materials Science, 101, 96–107. [http://dx.doi.org/10.1016/j.commatsci.2015.01.018 doi:10.1016/j.commatsci.2015.01.018]
+
+Schmitt, J., Gibbs, Z. M., Snyder, G. J., & Felser, C. (2015). Resolving the true band gap of ZrNiSn half-Heusler thermoelectric materials. Mater. Horiz., 2(1), 68–75. [http://dx.doi.org/10.1039/c4mh00142g doi:10.1039/c4mh00142g]
+
+Ong, S. P., Cholia, S., Jain, A., Brafman, M., Gunter, D., Ceder, G., & Persson, K. A. (2015). The Materials Application Programming Interface (API): A simple, flexible and efficient API for materials data based on REpresentational State Transfer (REST) principles. Computational Materials Science, 97, 209–215. [http://dx.doi.org/10.1016/j.commatsci.2014.10.037 doi:10.1016/j.commatsci.2014.10.037]
+
+Liu, M., Rong, Z., Malik, R., Canepa, P., Jain, A., Ceder, G., & Persson, K. A. (2015). Spinel compounds as multivalent battery cathodes: a systematic evaluation based on ab initio calculations. Energy Environ. Sci., 8(3), 964–974. [http://dx.doi.org/10.1039/c4ee03389b doi:10.1039/c4ee03389b]
+
+Cheng, L., Chen, W., Kunz, M., Persson, K., Tamura, N., Chen, G., & Doeff, M. (2015). Effect of Surface Microstructure on Electrochemical Performance of Garnet Solid Electrolytes. ACS Applied Materials & Interfaces, 7(3), 2073–2081. [http://dx.doi.org/10.1021/am508111r doi:10.1021/am508111r]
+
+Castelli, I. E., Hüser, F., Pandey, M., Li, H., Thygesen, K. S., Seger, B., … Jacobsen, K. W. (2015). Light-Harvesting Materials: New Light-Harvesting Materials Using Accurate and Efficient Bandgap Calculations (Adv. Energy Mater. 2/2015). Adv. Energy Mater., 5(2), n/a–n/a. [http://dx.doi.org/10.1002/aenm.201570007 doi:10.1002/aenm.201570007]
+
+Yu, J., Yan, Q., Chen, W., Jain, A., Neaton, J. B., & Persson, K. A. (2015).  First-principles study of electronic structure and photocatalytic properties of MnNiO 3 as an alkaline oxygen-evolution photocatalyst . Chem. Commun., 51(14), 2867–2870. [http://dx.doi.org/10.1039/c4cc08111k doi:10.1039/c4cc08111k]
+
+Isayev, O., Fourches, D., Muratov, E. N., Oses, C., Rasch, K., Tropsha, A., & Curtarolo, S. (2015). Materials Cartography: Representing and Mining Materials Space Using Structural and Electronic Fingerprints. Chemistry of Materials, 27(3), 735–743. [http://dx.doi.org/10.1021/cm503507h doi:10.1021/cm503507h]
+
+Yan, Q., Li, G., Newhouse, P. F., Yu, J., Persson, K. A., Gregoire, J. M., & Neaton, J. B. (2015).  Mn 2 V 2 O 7 : An Earth Abundant Light Absorber for Solar Water Splitting . Adv. Energy Mater., n/a–n/a. [http://dx.doi.org/10.1002/aenm.201401840 doi:10.1002/aenm.201401840]
+
+De Jong, M., Chen, W., Angsten, T., Jain, A., Notestine, R., Gamst, A., … Asta, M. (2015). Charting the complete elastic properties of inorganic crystalline compounds. Sci. Data, 2, 150009. [http://dx.doi.org/10.1038/sdata.2015.9 doi:10.1038/sdata.2015.9]
+
+Cheng, L., Assary, R. S., Qu, X., Jain, A., Ong, S. P., Rajput, N. N., … Curtiss, L. A. (2015). Accelerating Electrolyte Discovery for Energy Storage with High-Throughput Screening. The Journal of Physical Chemistry Letters, 6(2), 283–291. [http://dx.doi.org/10.1021/jz502319n doi:10.1021/jz502319n]
+
+Gibbs, Z. M., Kim, H.-S., Wang, H., & Snyder, G. J. (2015). Band gap estimation from temperature dependent Seebeck measurement—Deviations from the 2e|S|maxTmax relation. Appl. Phys. Lett., 106(2), 022112. [http://dx.doi.org/10.1063/1.4905922 doi:10.1063/1.4905922]
+
+Agapito, L. A., Curtarolo, S., & Buongiorno Nardelli, M. (2015).  Reformulation of   DFT + U   as a Pseudohybrid Hubbard Density Functional for Accelerated Materials Discovery . Physical Review X, 5(1). [http://dx.doi.org/10.1103/physrevx.5.011006 doi:10.1103/physrevx.5.011006]
+
+Aminorroaya Yamini, S., Wang, H., Gibbs, Z. M., Pei, Y., Mitchell, D. R. G., Dou, S. X., & Snyder, G. J. (2014). Thermoelectric performance of tellurium-reduced quaternary p-type lead–chalcogenide composites. Acta Materialia, 80, 365–372. [http://dx.doi.org/10.1016/j.actamat.2014.06.065 doi:10.1016/j.actamat.2014.06.065]
+
+Kim, J. C., Li, X., Moore, C. J., Bo, S.-H., Khalifah, P. G., Grey, C. P., & Ceder, G. (2014).  Analysis of Charged State Stability for Monoclinic LiMnBO 3 Cathode . Chemistry of Materials, 26(14), 4200–4206. [http://dx.doi.org/10.1021/cm5014174 doi:10.1021/cm5014174]
+
+Cheng, L., Crumlin, E. J., Chen, W., Qiao, R., Hou, H., Franz Lux, S., … Doeff, M. (2014). The origin of high electrolyte–electrode interfacial resistances in lithium cells containing garnet type solid electrolytes. Physical Chemistry Chemical Physics, 16(34), 18294. [http://dx.doi.org/10.1039/c4cp02921f doi:10.1039/c4cp02921f]
+
+Kumar, M. H., Dharani, S., Leong, W. L., Boix, P. P., Prabhakar, R. R., Baikie, T., … Mathews, N. (2014). Lead-Free Halide Perovskite Solar Cells with High Photocurrents Realized Through Vacancy Modulation. Advanced Materials, 26(41), 7122–7127. [http://dx.doi.org/10.1002/adma.201401991 doi:10.1002/adma.201401991]
+
+Toher, C., Plata, J. J., Levy, O., de Jong, M., Asta, M., Nardelli, M. B., & Curtarolo, S. (2014). High-throughput computational screening of thermal conductivity, Debye temperature, and Grüneisen parameter using a quasiharmonic Debye model. Phys. Rev. B, 90(17). [http://dx.doi.org/10.1103/physrevb.90.174107 doi:10.1103/physrevb.90.174107]
+
+Ritov, Y., Bickel, P. J., Gamst, A. C., & Kleijn, B. J. K. (2014). The Bayesian Analysis of Complex, High-Dimensional Models: Can It Be CODA? Statistical Science, 29(4), 619–639. [http://dx.doi.org/10.1214/14-sts483 doi:10.1214/14-sts483]
+
+Zhou, M., Gibbs, Z. M., Wang, H., Han, Y., Xin, C., Li, L., & Snyder, G. J. (2014). Optimization of thermoelectric efficiency in SnTe: the case for the light band. Phys. Chem. Chem. Phys., 16(38), 20741–20748. [http://dx.doi.org/10.1039/c4cp02091j doi:10.1039/c4cp02091j]
+
+Carrete, J., Mingo, N., Wang, S., & Curtarolo, S. (2014). Nanograined Half-Heusler Semiconductors as Advanced Thermoelectrics: An Ab Initio High-Throughput Statistical Study. Adv. Funct. Mater., 24(47), 7427–7432. [http://dx.doi.org/10.1002/adfm.201401201 doi:10.1002/adfm.201401201]
+
+Yang, L., Dacek, S., & Ceder, G. (2014). Proposed definition of crystal substructure and substructural similarity. Phys. Rev. B, 90(5). [http://dx.doi.org/10.1103/physrevb.90.054102 doi:10.1103/physrevb.90.054102]
+
+Zeier, W. G., Zhu, H., Gibbs, Z. M., Ceder, G., Tremel, W., & Snyder, G. J. (2014).  Band convergence in the non-cubic chalcopyrite compounds Cu 2 MGeSe 4 . J. Mater. Chem. C, 2(47), 10189–10194. [http://dx.doi.org/10.1039/c4tc02218a doi:10.1039/c4tc02218a]
+
+Carrete, J., Mingo, N., & Curtarolo, S. (2014). Low thermal conductivity and triaxial phononic anisotropy of SnSe. Appl. Phys. Lett., 105(10), 101907. [http://dx.doi.org/10.1063/1.4895770 doi:10.1063/1.4895770]
+
+Liu, K., Yan, Q., Chen, M., Fan, W., Sun, Y., Suh, J., … Wu, J. (2014).  Elastic Properties of Chemical-Vapor-Deposited Monolayer MoS 2 , WS 2 , and Their Bilayer Heterostructures . Nano Lett., 14(9), 5097–5103. [http://dx.doi.org/10.1021/nl501793a doi:10.1021/nl501793a]
+
+Kang, S., Mo, Y., Ong, S. P., & Ceder, G. (2014).  Nanoscale Stabilization of Sodium Oxides: Implications for Na–O 2 Batteries . Nano Lett., 14(2), 1016–1020. [http://dx.doi.org/10.1021/nl404557w doi:10.1021/nl404557w]
+
+Taylor, R. H., Rose, F., Toher, C., Levy, O., Yang, K., Buongiorno Nardelli, M., & Curtarolo, S. (2014). A RESTful API for exchanging materials data in the AFLOWLIB.org consortium. Computational Materials Science, 93, 178–192. [http://dx.doi.org/10.1016/j.commatsci.2014.05.014 doi:10.1016/j.commatsci.2014.05.014]
+
+Qiao, R., Lucas, I. T., Karim, A., Syzdek, J., Liu, X., Chen, W., … Yang, W. (2014). Distinct Solid-Electrolyte-Interphases on Sn (100) and (001) Electrodes Studied by Soft X-Ray Spectroscopy. Adv. Mater. Interfaces, 1(3), n/a–n/a. [http://dx.doi.org/10.1002/admi.201300115 doi:10.1002/admi.201300115]
+
+Ong, S. P., Richards, W. D., Jain, A., Hautier, G., Kocher, M., Cholia, S., … Ceder, G. (2013). Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis. Computational Materials Science, 68, 314–319. [http://dx.doi.org/10.1016/j.commatsci.2012.10.028 doi:10.1016/j.commatsci.2012.10.028]
+
+Pinheiro, M., Martin, R. L., Rycroft, C. H., & Haranczyk, M. (2013). High accuracy geometric analysis of crystalline porous materials. CrystEngComm, 15(37), 7531. [http://dx.doi.org/10.1039/c3ce41057a doi:10.1039/c3ce41057a]
+
+Jain, A., Ong, S. P., Hautier, G., Chen, W., Richards, W. D., Dacek, S., … Persson, K. A. (2013). Commentary: The Materials Project: A materials genome approach to accelerating materials innovation. APL Materials, 1(1), 011002. [http://dx.doi.org/10.1063/1.4812323 doi:10.1063/1.4812323]
+
+Jain, A., Hautier, G., Moore, C. J., Ping Ong, S., Fischer, C. C., Mueller, T., … Ceder, G. (2011). A high-throughput infrastructure for density functional theory calculations. Computational Materials Science, 50(8), 2295–2310. [http://dx.doi.org/10.1016/j.commatsci.2011.02.023 doi:10.1016/j.commatsci.2011.02.023]
+
+Hautier, G., Fischer, C., Ehrlacher, V., Jain, A., & Ceder, G. (2011). Data Mined Ionic Substitutions for the Discovery of New Compounds. Inorg. Chem., 50(2), 656–663. [http://dx.doi.org/10.1021/ic102031h doi:10.1021/ic102031h]
+
+Jain, A., Hautier, G., Ong, S. P., Moore, C. J., Fischer, C. C., Persson, K. A., & Ceder, G. (2011).  Formation enthalpies by mixing GGA and GGA   +     U   calculations . Phys. Rev. B, 84(4). [http://dx.doi.org/10.1103/physrevb.84.045115 doi:10.1103/physrevb.84.045115]
+
+Chan, M. K. Y., & Ceder, G. (2010). Efficient Band Gap Prediction for Solids. Physical Review Letters, 105(19). [http://dx.doi.org/10.1103/physrevlett.105.196403 doi:10.1103/physrevlett.105.196403]
+
+Ceder, G. (2010). Opportunities and challenges for first-principles materials design and applications to Li battery materials. MRS Bulletin, 35(09), 693–701. [http://dx.doi.org/10.1557/mrs2010.681 doi:10.1557/mrs2010.681]
+
+Hautier, G., Fischer, C. C., Jain, A., Mueller, T., & Ceder, G. (2010). Finding Nature’s Missing Ternary Oxide Compounds Using Machine Learning and Density Functional Theory. Chemistry of Materials, 22(12), 3762–3767. [http://dx.doi.org/10.1021/cm100795d doi:10.1021/cm100795d]
+
+Ong, S. P., Jain, A., Hautier, G., Kang, B., & Ceder, G. (2010). Thermal stabilities of delithiated olivine MPO4 (M=Fe, Mn) cathodes investigated using first principles calculations. Electrochemistry Communications, 12(3), 427–430. [http://dx.doi.org/10.1016/j.elecom.2010.01.010 doi:10.1016/j.elecom.2010.01.010]
+
+Ping Ong, S., Wang, L., Kang, B., & Ceder, G. (2008).  Li−Fe−P−O 2 Phase Diagram from First Principles Calculations . Chemistry of Materials, 20(5), 1798–1807. [http://dx.doi.org/10.1021/cm702327g doi:10.1021/cm702327g]
+
